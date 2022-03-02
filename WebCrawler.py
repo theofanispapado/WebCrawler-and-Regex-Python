@@ -91,4 +91,4 @@ process = CrawlerProcess(settings={
 })
 process.crawl(CarrernetSpider)
 process.start()  # the script will block here until the crawling is finished
-# C:\Users\spyrntou\AppData\Local\Pr
+
